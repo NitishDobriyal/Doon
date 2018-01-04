@@ -1,6 +1,15 @@
 
 Welcome to CricketTimes
 
-Live Scores
+*Live Scores*
 IND vs RSA-Ind 112/1 Overs- 25
 KL Rahul-43(65) c de Cock B. Rabada,Murali Vijay - 57*(102),V Kohli-5*(7) 
+
+*Team Rankings*
+Last Modified-4th Jan 2018
+  TESTS             ODIS            T20s
+1.India          1.South Africa  1.New Zealand
+2.South Africa   2.India         2.Pakistan
+3.England        3.Australlia    3.India
+4.New Zealand    4.England       4.England
+5.Australlia     5.New Zealand   5.West Indies
